@@ -1,0 +1,1 @@
+Simple blank html template with shiv and reset
